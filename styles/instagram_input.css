@@ -1,0 +1,126 @@
+/*ALL BOX*/
+
+.instagram-forms{
+    width: 350px;
+    height: 410px;
+    margin-top: 15px;
+    border: 0.2px solid #DBDBDB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*ALL BOX*/
+
+/*----------------------------------------------------------------------------------------*/
+
+ .logo-img{
+    width: 170px;
+    height: 55px;
+ }
+
+ .div-instagram-logo{
+    text-align: center;
+    display: block;
+    margin-top: 42px;
+    margin-bottom: 37px;
+ }
+
+ /*----------------------------------------------------------------------------------------*/
+
+
+ /*----------------------------------------------------------------------------------------*/
+
+ .input-login{
+    display: block;
+    width: 266px;
+    height: 34px;
+    border: 0.2px solid #DBDBDB;
+    font-size: 10px;
+    background-color: #FAFAFA;
+    border-radius: 3%;
+    padding: 3px;
+    margin-bottom: 5px;
+ }
+
+
+ /*----------------------------------------------------------------------------------------*/
+
+ /*----------------------------------------------------------------------------------------*/
+
+ .button{
+    width: 270px;
+    height: 32px;
+    background-color: #0095F6;
+    color: #FFFFFE;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 8px;
+
+ }
+
+ /*----------------------------------------------------------------------------------------*/
+
+ /*----------------------------------------------------------------------------------------*/
+
+.div-or{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 28px;
+}
+
+.div-line{
+    height: 1px;
+    border: none;
+    border-top: 1px solid #DBDBDB;
+    width: 100px;
+}
+
+.div-or p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: #73738A;
+}
+
+/*----------------------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------------------*/
+
+.another-password{
+    display: flex;
+    flex-direction: column;
+}
+
+.div-facebook-enter{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button-forgot-password, .button-facebook{
+    background-color: #FFFFFF;
+    border: none;
+    color: #385185;
+}
+
+.button-facebook{
+    
+    font-weight: bold;
+}
+
+.button-forgot-password{
+    margin-top: 30px;
+    font-size: 12px;
+ 
+}
+
+ .face-img{
+    width: 18px;
+    height: 18px;
+ }
+
+ .download-app{
+    text-align: center;
+ }

@@ -1,0 +1,33 @@
+@media (max-width: 450px) {
+
+    .div-container{
+        padding: 0px;
+    }
+
+    .img-smartphone{
+        display: none;
+    }
+
+    .instagram-input{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: -110px;
+    }
+
+    .instagram-forms, .not-account{
+
+        border: none;
+    }
+
+    .botton-content{
+        padding: 15px;
+        margin: 0 auto;
+        text-align: center;
+        width: 80%;
+        position: relative;
+        display: block;
+        flex-wrap: wrap;
+        bottom: -15px;
+    }
+}

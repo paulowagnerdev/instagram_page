@@ -1,0 +1,26 @@
+.not-account{
+    width: 350px;
+    height: 70px;
+    border: 0.2px solid #DBDBDB;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+
+.not-account-button{
+    height: 20px;
+    background-color: #FFFFFF;
+    border: none;
+    color: #0095F6;
+}
+
+.not-account p, .download-app{
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.download-app{
+    margin-top: 20px;
+}
